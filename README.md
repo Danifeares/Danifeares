@@ -12,6 +12,8 @@ My previous experience as a veterinarian brought me valuable skills such as atte
  `API REST`
  `Git`
  `SQL`
+ `CSS`
+ `HTML`
 
 - 📫 How to reach me: <br/>
 Email: daniela.felipe.soares@gmail.com <br/>
