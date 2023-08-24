@@ -1,11 +1,14 @@
-## Hi! 🙋🏻‍♀️
+<img align="center" alt="hello_world" height="200" width="500" src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif"/>
+ 
 
-I am a veterinarian passionate about animals who is embarking on an exciting career transition to the technology field. <br/>
+🤓 My name is Daniela, but you can call me Dani! <br/>
+
+👩🏻‍⚕️ I'am veterinarian passionate about animals who is embarking on an exciting career transition to the technology field. <br/>
+
 👩🏻‍💻 Currently, I am studying Software Development with a focus on Back-end at Cubos Academy, where I am gaining practical knowledge in this dynamic field. Additionally, I am in the second semester of the Computer Science course at Estácio, seeking a solid theoretical foundation to complement my technical training. 
 
 My previous experience as a veterinarian brought me valuable skills such as attention to detail, analytical thinking, and problem-solving. As a transitioning professional, I am open to new challenges and opportunities that allow me to grow and contribute actively in the technology field.
 
-<br/>
 <br/>
 <br/>
 
@@ -33,10 +36,8 @@ My previous experience as a veterinarian brought me valuable skills such as atte
 </div>
 
 <br/>
-<br/>
-<br/>
 
-### ❤️ Let's get connected:
+### ❤️ Let's get connected:  <img alt="hello" height="100" width="150" src="https://github.com/Danifeares/Danifeares/assets/117787402/633fd049-9b39-4247-8357-145833c1e77d"/>
 <br/>
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-felipe-soares/)
