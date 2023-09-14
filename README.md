@@ -1,14 +1,17 @@
-<img align="center" alt="hello_world" height="200" width="500" src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif"/>
- 
 
-🤓 My name is Daniela, but you can call me Dani! <br/>
+ ![hello world](https://github.com/Danifeares/Danifeares/assets/117787402/7b45647a-54e1-49a5-9d6d-ddc1ade4a66d)
+
+
+
+***
+🤓 **Hi! I'm Dani!** <br/>
 
 👩🏻‍⚕️ I'am veterinarian passionate about animals who is embarking on an exciting career transition to the technology field. <br/>
 
 👩🏻‍💻 Currently, I am studying Software Development with a focus on Back-end at Cubos Academy, where I am gaining practical knowledge in this dynamic field. Additionally, I am in the second semester of the Computer Science course at Estácio, seeking a solid theoretical foundation to complement my technical training. 
 
 My previous experience as a veterinarian brought me valuable skills such as attention to detail, analytical thinking, and problem-solving. As a transitioning professional, I am open to new challenges and opportunities that allow me to grow and contribute actively in the technology field.
-
+***
 <br/>
 <br/>
 
