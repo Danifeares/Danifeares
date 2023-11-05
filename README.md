@@ -26,7 +26,7 @@
 <img alt="Status" src="https://img.shields.io/badge/Status- Cursando-orange">
     </td>
     <td width="50%">
-      <img src="https://github.com/Danifeares/Danifeares/assets/117787402/0a52a697-bb76-4efa-b588-305785813492" alt="Ícone Dani" width="500" height="500">
+      <img src="https://github.com/Danifeares/Danifeares/assets/117787402/0a52a697-bb76-4efa-b588-305785813492" alt="Ícone Dani" width="400" height="400">
     </td>
   </tr>
 </table>
