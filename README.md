@@ -1,14 +1,10 @@
 
  ![hello world](https://github.com/Danifeares/Danifeares/assets/117787402/7b45647a-54e1-49a5-9d6d-ddc1ade4a66d)
 
-<table>
-  <tr>
-    <td width="50%">
-     
-## Oi, eu sou a Dani!
-
+# Oi, eu sou a Dani! <img src="https://github.com/Danifeares/Danifeares/assets/117787402/0a52a697-bb76-4efa-b588-305785813492" alt="Ícone Dani" width="100" height="100">
+ 
 👩🏻‍⚕️ Sou médica veterinária, e estou em uma empolgante transição de carreira para a área de tecnologia.
-
+   
 ### Formação:
 
 👩🏻‍💻 Bacharelado em Ciências da Computação / Estácio
@@ -24,12 +20,9 @@
 
 👩🏻‍💻 Trilha de Node.JS com MongoDB / Cubos Academy
 <img alt="Status" src="https://img.shields.io/badge/Status- Cursando-orange">
-    </td>
-    <td width="50%">
-      <img src="https://github.com/Danifeares/Danifeares/assets/117787402/0a52a697-bb76-4efa-b588-305785813492" alt="Ícone Dani" width="350" height="350">
-    </td>
-  </tr>
-</table>
+  </div>
+</div>
+
 
 <br/>
 
@@ -40,7 +33,7 @@
 
 <br/>
 
-### 🛠️ Technologies:
+### 🛠️ Tecnologias:
 <br/>
 <div>
  <img align="center" alt="Daniela-js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -57,7 +50,7 @@
 </div>
 
 
-### ❤️ Let's get connected:  <img alt="hello" height="100" width="150" src="https://github.com/Danifeares/Danifeares/assets/117787402/633fd049-9b39-4247-8357-145833c1e77d"/>
+### ❤️ Conecte-se comigo:  <img alt="hello" height="100" width="150" src="https://github.com/Danifeares/Danifeares/assets/117787402/633fd049-9b39-4247-8357-145833c1e77d"/>
 <br/>
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-felipe-soares/)
