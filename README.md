@@ -8,7 +8,7 @@
 ### Formação:
 
 👩🏻‍💻 Bacharelado em Ciências da Computação / Estácio
-<img alt="Status" src="https://img.shields.io/badge/Status-Semestre 2/8-orange">
+<img alt="Status" src="https://img.shields.io/badge/Status-Semestre 3/8-orange">
 
 ### Cursos complementares:
 
