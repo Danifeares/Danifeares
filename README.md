@@ -19,6 +19,9 @@
 <img alt="Status" src="https://img.shields.io/badge/Status- Cursando-orange">
 
 👩🏻‍💻 Trilha de Node.JS com MongoDB / Cubos Academy
+<img alt="Status" src="https://img.shields.io/badge/Status- Completo-brightgreen">
+
+👩🏻‍💻 Trilha de Nest.js / Cubos Academy
 <img alt="Status" src="https://img.shields.io/badge/Status- Cursando-orange">
   </div>
 </div>
