@@ -3,7 +3,12 @@
 
 # Oi, eu sou a Dani! <img src="https://github.com/Danifeares/Danifeares/assets/117787402/0a52a697-bb76-4efa-b588-305785813492" alt="Ícone Dani" width="100" height="100">
  
-👩🏻‍⚕️ Sou médica veterinária, e estou em uma empolgante transição de carreira para a área de tecnologia.
+Minha primeira graduação foi em medicina veterinária 👩🏻‍⚕️, mas atualmente estou em transição de carreira para a área de tecnologia. <br/>
+
+No momento, estou participando do programa de estágio Rocket.up da Vortigo Digital, onde as stacks utilizadas são React.JS e .NET. <br/>
+
+Interesses: <br/>
+Animais 🦎, jardinagem 🌱, culinária 👩‍🍳, motociclismo 🏍️, sustentabilidade ♻️, e como uma boa desenvolvedora, café (sem açúcar) ☕.
    
 ### Formação:
 
@@ -16,16 +21,7 @@
 <img alt="Status" src="https://img.shields.io/badge/Status- Completo-brightgreen">
 
 👩🏻‍💻 Curso técnico AWS re-start / Escola da Nuvem
-<img alt="Status" src="https://img.shields.io/badge/Status- Cursando-orange">
-
-👩🏻‍💻 Trilha de Node.JS com MongoDB / Cubos Academy
 <img alt="Status" src="https://img.shields.io/badge/Status- Completo-brightgreen">
-
-👩🏻‍💻 Trilha de Nest.js / Cubos Academy
-<img alt="Status" src="https://img.shields.io/badge/Status- Cursando-orange">
-  </div>
-</div>
-
 
 <br/>
 
@@ -43,6 +39,8 @@
  <img align="center" alt="Daniela-node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
  <img align="center" alt="Daniela-typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
  <img align="center" alt="Daniela-express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+ <img align="center" alt="Daniela-csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+ <img align="center" alt="Daniela-react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
  <img align="center" alt="Daniela-postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
  <img align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
  <img align="center" alt="Daniela-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
