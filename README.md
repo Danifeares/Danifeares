@@ -13,7 +13,7 @@ Animais 🦎, jardinagem 🌱, culinária 👩‍🍳, motociclismo 🏍️, sus
 ### Formação:
 
 👩🏻‍💻 Bacharelado em Ciências da Computação / Estácio
-<img alt="Status" src="https://img.shields.io/badge/Status-Semestre 3/8-orange">
+<img alt="Status" src="https://img.shields.io/badge/Status-Semestre 4/8-orange">
 
 ### Cursos complementares:
 
