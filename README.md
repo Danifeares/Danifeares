@@ -3,9 +3,9 @@
 
 # Oi, eu sou a Dani! <img src="https://github.com/Danifeares/Danifeares/assets/117787402/0a52a697-bb76-4efa-b588-305785813492" alt="Ícone Dani" width="100" height="100">
  
-Minha primeira graduação foi em medicina veterinária 👩🏻‍⚕️, mas atualmente estou em transição de carreira para a área de tecnologia. <br/>
+Sou desenvolvedora de software full-stack. <br/>
 
-No momento, estou participando do programa de estágio Rocket.up da Vortigo Digital, onde as stacks utilizadas são React.JS e .NET. <br/>
+No momento, estou atuando como desenvolvedora front-end na Vortigo Digital <br/>
 
 Interesses: <br/>
 Animais 🦎, jardinagem 🌱, culinária 👩‍🍳, motociclismo 🏍️, sustentabilidade ♻️, e como uma boa desenvolvedora, café (sem açúcar) ☕.
@@ -13,7 +13,7 @@ Animais 🦎, jardinagem 🌱, culinária 👩‍🍳, motociclismo 🏍️, sus
 ### Formação:
 
 👩🏻‍💻 Bacharelado em Ciências da Computação / Estácio
-<img alt="Status" src="https://img.shields.io/badge/Status-Semestre 4/8-orange">
+<img alt="Status" src="https://img.shields.io/badge/Status-Semestre 5/8-orange">
 
 ### Cursos complementares:
 
